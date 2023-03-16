@@ -6,7 +6,7 @@ on:
 
 env:
     REGISTRY: ghcr.io
-    IMAGE_NAME: 'torgotorgo/ghidra-container' # Can't have uppercase
+    IMAGE_NAME: 'pawlowskialex/ghidra-container' # Can't have uppercase
 
 jobs:
     build-and-push-image:
